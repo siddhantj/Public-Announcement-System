@@ -1,17 +1,3 @@
-NAME: SIDDHANT JAWA
-USCID: 7769-2282-69
-Username- sjawa
-
-
-Submitted files: 
-1. createdb.sql
-2. dropdb.sql
-3. populate.java
-4. hw2.java
-5. sdoapi.jar
-6.Readme.txt
-
-Resolution of HW: 1100 x 700
 
 How to compile/run:
 
